@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpender",
+        "uuid": 32071475,
+        "checksum": "p9tklm"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
